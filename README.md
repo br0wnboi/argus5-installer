@@ -9,7 +9,7 @@ Simple bash script to install Argus5 Network Monitoring tool on Debian based sys
 
 
 ## Notes:
-This script does compile and insatll argus but I'm still not sure how to run it with it's configuration file, you can refer to the argus5 Documentation here:
+This script does compile and install argus but I'm still not sure how to run it with it's configuration file, you can refer to the argus5 Documentation here:
 https://jaw0.github.io/argus5docs/docs/
 
 ## Other sources:
